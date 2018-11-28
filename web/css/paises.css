@@ -1,0 +1,11 @@
+.paises {
+	height: 120px;
+	overflow-y: auto;
+}
+
+.paises ul li {
+	list-style-type: none;
+	text-transform: capitalize;
+	padding: 3px;
+	margin: 3px;
+}
